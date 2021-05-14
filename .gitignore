@@ -1,0 +1,65 @@
+#NEST
+# compiled output
+/nest-js/dist
+/nest-js/node_modules
+
+# Logs
+/nest-js/logs
+/nest-js/*.log
+/nest-js/npm-debug.log*
+/nest-js/yarn-debug.log*
+/nest-js/yarn-error.log*
+/nest-js/lerna-debug.log*
+
+# OS
+/nest-js/.DS_Store
+
+# Tests
+/nest-js//coverage
+/nest-js//.nyc_output
+
+# IDEs and editors
+/nest-js//.idea
+/nest-js/.project
+/nest-js/.classpath
+/nest-js/.c9/
+/nest-js/*.launch
+/nest-js/.settings/
+/nest-js/*.sublime-workspace
+
+# IDE - VSCode
+/nest-js/.vscode/*
+/nest-js/!.vscode/settings.json
+/nest-js/!.vscode/tasks.json
+/nest-js/!.vscode/launch.json
+/nest-js/!.vscode/extensions.json
+
+#REACT
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-redux/node_modules
+/react-redux/.pnp
+/react-redux/.pnp.js
+
+# testing
+/react-redux/coverage
+
+# production
+/react-redux/build
+
+# misc
+/react-redux/.DS_Store
+/react-redux/.env.local
+/react-redux/.env.development.local
+/react-redux/.env.test.local
+/react-redux/.env.production.local
+
+/react-redux/npm-debug.log*
+/react-redux/yarn-debug.log*
+/react-redux/yarn-error.log*
+/react-redux/.idea/*
+
+
+.idea
+/nest-js/.idea
